@@ -7,4 +7,3 @@
 """
 
 print('successfully connected')
-print('terada, shit!')
