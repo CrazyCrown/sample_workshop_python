@@ -7,3 +7,5 @@
 """
 
 print('successfully connected')
+
+print('Test git difftool')
