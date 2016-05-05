@@ -6,4 +6,5 @@
 
 """
 
+print('terada hayo, komiya')
 print('successful connection, hijiri')
